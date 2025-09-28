@@ -1,0 +1,227 @@
+[
+    {
+      "name": "Bulbasaur",
+      "type": ["Grass", "Poison"],
+      "bst": 318
+    },
+    {
+      "name": "Ivysaur",
+      "type": ["Grass", "Poison"],
+      "bst": 405
+    },
+    {
+      "name": "Venusaur",
+      "type": ["Grass", "Poison"],
+      "bst": 525
+    },
+    {
+      "name": "Roselia",
+      "type": ["Grass", "Poison"],
+      "bst": 400
+    },
+    {
+      "name": "Charmander",
+      "type": ["Fire"],
+      "bst": 309
+    },
+    {
+      "name": "Charmeleon",
+      "type": ["Fire"],
+      "bst": 405
+    },
+    {
+      "name": "Arcanine",
+      "type": ["Fire"],
+      "bst": 555
+    },
+    {
+      "name": "Magmar",
+      "type": ["Fire"],
+      "bst": 495
+    },
+    {
+      "name": "Squirtle",
+      "type": ["Water"],
+      "bst": 314
+    },
+    {
+      "name": "Wartortle",
+      "type": ["Water"],
+      "bst": 405
+    },
+    {
+      "name": "Vaporeon",
+      "type": ["Water"],
+      "bst": 525
+    },
+    {
+      "name": "Blastoise",
+      "type": ["Water"],
+      "bst": 530
+    },
+    {
+      "name": "Pikachu",
+      "type": ["Electric"],
+      "bst": 320
+    },
+    {
+      "name": "Raichu",
+      "type": ["Electric"],
+      "bst": 485
+    },
+    {
+      "name": "Electivire",
+      "type": ["Electric"],
+      "bst": 540
+    },
+    {
+      "name": "Luxray",
+      "type": ["Electric"],
+      "bst": 523
+    },
+    {
+      "name": "Gengar",
+      "type": ["Ghost", "Poison"],
+      "bst": 500
+    },
+    {
+      "name": "Haunter",
+      "type": ["Ghost", "Poison"],
+      "bst": 405
+    },
+    {
+      "name": "Cofagrigus",
+      "type": ["Ghost"],
+      "bst": 483
+    },
+    {
+      "name": "Mismagius",
+      "type": ["Ghost"],
+      "bst": 495
+    },
+    {
+      "name": "Lucario",
+      "type": ["Fighting", "Steel"],
+      "bst": 525
+    },
+    {
+      "name": "Machamp",
+      "type": ["Fighting"],
+      "bst": 505
+    },
+    {
+      "name": "Gallade",
+      "type": ["Psychic", "Fighting"],
+      "bst": 518
+    },
+    {
+      "name": "Conkeldurr",
+      "type": ["Fighting"],
+      "bst": 505
+    },
+    {
+      "name": "Steelix",
+      "type": ["Steel", "Ground"],
+      "bst": 510
+    },
+    {
+      "name": "Mawile",
+      "type": ["Steel", "Fairy"],
+      "bst": 380
+    },
+    {
+      "name": "Scizor",
+      "type": ["Bug", "Steel"],
+      "bst": 500
+    },
+    {
+      "name": "Greninja",
+      "type": ["Water", "Dark"],
+      "bst": 530
+    },
+    {
+      "name": "Sharpedo",
+      "type": ["Water", "Dark"],
+      "bst": 460
+    },
+    {
+      "name": "Umbreon",
+      "type": ["Dark"],
+      "bst": 525
+    },
+    {
+      "name": "Hydreigon",
+      "type": ["Dark", "Dragon"],
+      "bst": 600
+    },
+    {
+      "name": "Sylveon",
+      "type": ["Fairy"],
+      "bst": 525
+    },
+    {
+      "name": "Florges",
+      "type": ["Fairy"],
+      "bst": 552
+    },
+    {
+      "name": "Gardevoir",
+      "type": ["Psychic", "Fairy"],
+      "bst": 518
+    },
+    {
+      "name": "Talonflame",
+      "type": ["Fire", "Flying"],
+      "bst": 499
+    },
+    {
+      "name": "Togekiss",
+      "type": ["Fairy", "Flying"],
+      "bst": 545
+    },
+    {
+      "name": "Noivern",
+      "type": ["Flying", "Dragon"],
+      "bst": 535
+    },
+    {
+      "name": "Staraptor",
+      "type": ["Normal", "Flying"],
+      "bst": 485
+    },
+    {
+      "name": "Goodra",
+      "type": ["Dragon"],
+      "bst": 600
+    },
+    {
+      "name": "Salamence",
+      "type": ["Dragon", "Flying"],
+      "bst": 600
+    },
+    {
+      "name": "Haxorus",
+      "type": ["Dragon"],
+      "bst": 540
+    },
+    {
+      "name": "Altaria",
+      "type": ["Dragon", "Flying"],
+      "bst": 490
+    },
+    {
+      "name": "Charizard",
+      "type": ["Fire", "Flying"],
+      "bst": 534
+    },
+    {
+      "name": "Garchomp",
+      "type": ["Dragon", "Ground"],
+      "bst": 600
+    },
+    {
+        "name": "Aegislash",
+        "type": ["Ghost","Steel"],
+        "bst": 500
+    }
+]

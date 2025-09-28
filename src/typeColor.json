@@ -1,0 +1,19 @@
+{
+    "Grass": "#7CFC00",
+    "Poison": "#A040A0",
+    "Fire": "#FF7F00",
+    "Water": "#00BFFF",
+    "Electric": "#FFD700",
+    "Ghost": "#705898",
+    "Fighting": "#C03028",
+    "Steel": "#B8B8D0",
+    "Dark": "#4B3621",
+    "Fairy": "#FFB6C1",
+    "Psychic": "#FF69B4",
+    "Flying": "#87CEEB",
+    "Normal": "#D3D3D3",
+    "Dragon": "#7038F8",
+    "Ground": "#DEB887",
+    "Bug": "#A8B820"
+  }
+  
